@@ -1,0 +1,2 @@
+# STRICT2
+assignment
